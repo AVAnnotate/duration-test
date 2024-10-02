@@ -21,6 +21,22 @@
                   "text": "Oh, but it is dirty!"
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "—this little filling station,"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "oil-soaked, oil-permeated"
+                }
+              ]
             }
           ]
         }
