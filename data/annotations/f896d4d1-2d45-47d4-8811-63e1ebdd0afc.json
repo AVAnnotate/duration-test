@@ -119,6 +119,14 @@
                   "text": "Somebody waters the plant,"
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "or oils it, maybe."
+                }
+              ]
             }
           ]
         }
